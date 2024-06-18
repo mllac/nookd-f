@@ -18,7 +18,7 @@
 
       src = builtins.fetchGit {
         rev = "fd3d72f08d2516c2f5681db167d92fc0c22bc335";
-        url = "git@github.com:mllac/nookd.git";
+        url = "git@github.com:mllac/nookd-rs.git";
         ref = "master";
       };
 
